@@ -3,4 +3,5 @@
 
 ### 🔭 I love to discover and learn new technologies
 ### 🤯 I hate DevOps projects
-### 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?iliaselbadaoui=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
